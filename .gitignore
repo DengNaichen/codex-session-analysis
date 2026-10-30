@@ -1,0 +1,9 @@
+output/
+web/data.json
+__pycache__/
+data/
+semantic/
+experiments/
+web/pilot.json
+web/rhythm.json
+.DS_Store
